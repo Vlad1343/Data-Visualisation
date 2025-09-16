@@ -19,7 +19,6 @@ This project analyzes the selling price of used cars using Python, Pandas, Matpl
   - Regression plots enhanced with colored points to distinguish car makes.  
 - **Outcome:** Clear, visually rich insights into how different car features influence selling prices, allowing better decision-making for buyers and sellers.
 
-This work demonstrates a practical, real-world application of data visualization and statistical analysis in Python, similar to industry examples like those on [GeeksforGeeks](https://www.geeksforgeeks.org/python/analyzing-selling-price-of-used-cars-using-python/).
 
 ---
 
